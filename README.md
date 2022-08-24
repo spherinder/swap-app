@@ -1,4 +1,4 @@
 ---
-Current maintainer: Oliver Bergqvist, You WU
+Current maintainer: Oliver Bergqvist, You Wu
 
 ---
