@@ -14,7 +14,7 @@ type Users = {
 }
 
 const client = new ApolloClient({
-  uri: 'http://192.168.43.50:8080/v1/graphql',
+  uri: 'localhost:8080/v1/graphql',
   cache: new InMemoryCache(),
 });
 
